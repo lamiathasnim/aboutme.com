@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: white;
+  background-color: black;
+}
+
+.me {
+  color: teal;
+  font-family: "Rock 3D", cursive;
+}
+
+.me:hover {
+  color: pink;
+  text-decoration: underline;
+}
+
+.hobbies {
+  color: teal;
+  font-family: "Rock 3D", cursive;
+}
+
+.hobbies:hover {
+  color: pink;
+  text-decoration: underline;
+}
+
+.about {
+  color: teal;
+  font-family: "Rock 3D", cursive;
+}
+
+.about:hover {
+  color: pink;
+  text-decoration: underline;
+}
+
+.ig {
+  color: salmon;
+}
